@@ -44,6 +44,9 @@ A clean, responsive, and interactive finance dashboard built with **React** and 
 
 ### Installation
 1. Clone the repository or extract the files.
+```bash
+https://github.com/sumitshakya0987/Finance_Dashboard
+```
 2. Navigate to the project directory:
    ```bash
    cd Finance_Dashboard_UI
